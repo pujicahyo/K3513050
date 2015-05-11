@@ -1,5 +1,8 @@
 <?php
-
+/*
+* Nyoba nambah Komentar
+* komentarnya (habis di edit)
+*/
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
